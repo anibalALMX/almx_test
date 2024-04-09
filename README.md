@@ -1,5 +1,5 @@
-# almx_sale
-# Módulo personalizado para Odoo 13 y Odoo 16
+# almx_test
+# API external para Odoo 13
 
 ## Descripción
 
